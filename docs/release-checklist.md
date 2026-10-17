@@ -5,6 +5,7 @@ The package is a review candidate, not a released plugin.
 - Confirm G2X publisher ownership and preserve the repository's existing license.
 - Review final positioning and setup copy with Ron before public launch.
 - Validate portable manifest/MCP schemas and all reference paths.
+- Verify the canonical skills source commit is approved for release; rebuild the vendored collection only from that clean pinned source.
 - Load the OpenClaw bundle in an isolated profile on a pinned supported Node/host version.
 - Load the Hermes native adapter and resolve its registered skill and reference files.
 - On a supported current Hermes release, run `hermes plugins validate /path/to/govcon-agents --install-deps`. The older local CLI may not expose this command; that is a release gate, not a passing result.

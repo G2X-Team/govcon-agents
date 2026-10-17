@@ -1,4 +1,4 @@
-# GovCon AI by G2X
+# Government Contracting by G2X
 
 Government contracting sales, business development and capture workflows for your AI agent.
 
@@ -8,34 +8,24 @@ G2X supplies government market intelligence. GovCon MCP connects that intelligen
 
 ## What is included
 
-One entry skill routes to eleven focused playbooks:
+The main Government Contracting skill and 24 focused workflow skills come from a pinned revision of [G2X-Team/govcon-skills](https://github.com/G2X-Team/govcon-skills). The same collection is prepared for skills.sh and bundled here for OpenClaw and Hermes.
 
-- Company brief and target-market context
-- Agency account plans
-- Opportunity screening
-- Incumbent and competitor research
-- Potential recompete watch
-- Teaming-partner diligence
-- Solicitation and amendment review
-- Capture plans and decision memos
-- Meetings and industry days
-- Pipeline decisions and follow-up
-- Connections and requested account actions
+Cover company context, agency account plans, market research, opportunity and SLED discovery, forecasts, recompetes, incumbents, company diligence, teaming, vehicle strategy, supply items, labor-rate research, requirements and amendments, response outlines, bid decisions, capture plans, events, meetings, pipelines, CRM follow-up, watches and research handoffs.
 
-Each playbook defines the inputs, method, a copyable prompt and the expected deliverable. Facts, hypotheses, missing information and proposed actions stay distinct.
+Every focused skill can work on its own. Instructions use the tools your G2X connection actually offers, keep source evidence and distinguish a proposed change from a completed action. `skills-index.json` records the exact source commit and hashes; vendoring is a build step, with no runtime download or self-updater.
 
 ## Choose your host
 
 | Host | Package loaded | G2X connection |
 | --- | --- | --- |
 | OpenClaw | Portable Agent Plugins v1: root `plugin.json`, `skills/` and `mcp.json` | Research endpoint declared in the bundle; host-managed sign-in must be completed and verified |
-| Hermes | Native `plugin.yaml` and `__init__.py`; registers the same workflow skill | Configure the host's native MCP OAuth connection separately |
+| Hermes | Native `plugin.yaml` and `__init__.py`; registers the same collection of workflow skills | Configure the host's native MCP OAuth connection separately |
 
 See [OpenClaw setup](docs/openclaw.md) and [Hermes setup](docs/hermes.md).
 
 ## Try a workflow
 
-Ask your host to load the GovCon AI skill, then try:
+Ask your host to load the Government Contracting skill, then try:
 
 > Turn this company capability statement into a company brief. Separate supported claims from gaps. Then help me choose three buying offices to research, with evidence and a next question for each. Draft only.
 
