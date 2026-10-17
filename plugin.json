@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "government-contracting",
+  "version": "0.1.0",
+  "description": "Government contracting sales, business development and capture workflows: research buyers and incumbents, find opportunities and partners, read solicitations and move pursuits forward with evidence.",
+  "author": {
+    "name": "G2X",
+    "url": "https://g2x.com"
+  },
+  "homepage": "https://g2x.com/mcp",
+  "repository": "https://github.com/G2X-Team/govcon-agents",
+  "keywords": [
+    "govcon",
+    "government-contracting",
+    "sales",
+    "business-development",
+    "capture",
+    "market-intelligence",
+    "teaming",
+    "proposals"
+  ]
+}

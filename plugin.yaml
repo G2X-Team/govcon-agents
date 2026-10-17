@@ -1,0 +1,9 @@
+name: government-contracting
+version: "0.1.0"
+description: Government contracting sales, business development and capture workflows powered by evidence.
+author: G2X
+capabilities:
+  tools: []
+  hooks: []
+  middleware: []
+  env_vars: []

@@ -1,0 +1,131 @@
+{
+  "source": "https://github.com/G2X-Team/govcon-skills",
+  "commit": "32654396c774b88606f2a9735594005439ecc315",
+  "skills": [
+    {
+      "name": "govcon-agency-account-plan",
+      "description": "Choose specific government buying offices and build an evidence-backed sales account plan. Use when selecting agencies, components or offices to pursue.",
+      "sha256": "7d09956a945ebf8e330b87fa27b46fa9e9b537d26ff571b7864dc9d88e35cf1c"
+    },
+    {
+      "name": "govcon-amendment-review",
+      "description": "Compare government solicitation amendments and identify response-planning changes. Use when a revised package, new attachment or Q&A may affect a pursuit.",
+      "sha256": "493de8ba3707dfb7da10014870043d55666496e7a963ce344928462eba113cdc"
+    },
+    {
+      "name": "govcon-bid-decision",
+      "description": "Prepare an evidence-based pursue, hold or stop recommendation for a government opportunity. Use for a management decision rather than autonomous bidding.",
+      "sha256": "402ba1a6cf08f6641c446bf4a16b3ddefaceee4d6d5829966ba265ae9b56a121"
+    },
+    {
+      "name": "govcon-buyer-meeting-prep",
+      "description": "Prepare a government sales meeting around the buyer mission, documented evidence and decision-changing questions. Use for a planned meeting or discovery discussion.",
+      "sha256": "59999ef54466a419c51a39459010a78ebde60f157d17d0bf0d8915806f3398ec"
+    },
+    {
+      "name": "govcon-capture-plan",
+      "description": "Draft a government contracting capture plan with customer questions, company proof, competitive hypotheses and next actions. Use after a pursuit is selected for research.",
+      "sha256": "afa4bfc229af4021f05a53961ac5469b25da50bdca7d513bd66ed48ef4782446"
+    },
+    {
+      "name": "govcon-company-brief",
+      "description": "Turn company capabilities and evidence into reusable government contracting research context. Use before finding work or defining a target market.",
+      "sha256": "445005e48d6a11c266ca2432ac278806c14514cce3be2d16ec3e95ab4b63c006"
+    },
+    {
+      "name": "govcon-company-diligence",
+      "description": "Resolve a government contractor and examine supported capabilities, classifications and public claims. Use for partner, competitor or account diligence.",
+      "sha256": "627af22d05f88a68702e3b2c1b63362874657e7220a800896c4563b9e0751807"
+    },
+    {
+      "name": "govcon-crm-follow-up",
+      "description": "Turn actual government sales notes into a follow-up draft and specifically requested G2X CRM changes. Use after real interactions or for an explicit planned next step.",
+      "sha256": "c4df2a8876f222fd1e4822d244fe68f2e07777a9991a0fb1afa5c05960ef22e2"
+    },
+    {
+      "name": "govcon-forecast-research",
+      "description": "Turn public acquisition forecasts into earlier business development research leads. Use to investigate planned buying before a current solicitation is established.",
+      "sha256": "bad72687315cfd12c6ffccb9db5004fd109c706ca23380c54779153173c27388"
+    },
+    {
+      "name": "govcon-incumbent-research",
+      "description": "Build a sourced incumbent or competitor brief from company and award evidence. Use before a pursuit decision or competitive planning discussion.",
+      "sha256": "c8dccae0b7929cf3e0ef5b99b87fda4ed3097d950face300f70e94c37a058f79"
+    },
+    {
+      "name": "govcon-industry-day-prep",
+      "description": "Research a government industry day and prepare an attendance decision and useful questions. Use for event preparation, not automatic registration.",
+      "sha256": "c55d66b1a347d8a08bb823e8a0c51c24b5881a64863467a68973416ad311cbff"
+    },
+    {
+      "name": "govcon-labor-rate-research",
+      "description": "Compare published labor-rate references for government contracting research. Use for category comparisons and reference analysis, not to set a bid price.",
+      "sha256": "a68aabb12a5c6643dcb584672b4e1790e9ae1b74ea7c5936054cda1bf2324f77"
+    },
+    {
+      "name": "govcon-market-research",
+      "description": "Define and research a government contracting market using consistent award measures and scope. Use for market sizing, segment comparisons and buyer concentration.",
+      "sha256": "be478f80fa6e9d36865207dbf7e3ad5657f7af3cbd4debef920d7298ab64a878"
+    },
+    {
+      "name": "govcon-opportunity-discovery",
+      "description": "Find and screen government opportunities against company capabilities and constraints. Use for an initial shortlist rather than a final bid decision.",
+      "sha256": "adc2c14450757cd34c9c788772b191289b088e2b96e7abba79a58bb3a15cb9b1"
+    },
+    {
+      "name": "govcon-pipeline-review",
+      "description": "Review a government contracting pipeline and prepare decisions, owners and next actions. Use for a dated pursuit review or a draft cleanup plan.",
+      "sha256": "edb1b16e9f815a7865b0760b6d780fd0a88b508377d79bb3a1ddd4ca6346d902"
+    },
+    {
+      "name": "govcon-recompete-research",
+      "description": "Research expiring awards and potential follow-on opportunities for forward capture planning. Use for a recompete watch or early pursuit research.",
+      "sha256": "ad6bf1b6d149ce9721ba8d4a428a9d641f40d56e34f22437ba958109dc0bb148"
+    },
+    {
+      "name": "govcon-requirements-review",
+      "description": "Read a government solicitation package and build a cited requirements working list. Use before proposal planning or a company-fit assessment.",
+      "sha256": "40f0d9b1641b36fe98c5b322b1757e00f0973d4b2dc5464c4fd98b79ee977df1"
+    },
+    {
+      "name": "govcon-research-handoff",
+      "description": "Turn government contracting research into a sourced brief and requested G2X handoff. Use when a teammate needs the evidence, decision and next action together.",
+      "sha256": "ea846d8a03b1816350c3018d359db1ce5261588455540e5fed495481e7f815a1"
+    },
+    {
+      "name": "govcon-response-outline",
+      "description": "Build a government proposal response outline from the actual solicitation instructions and evaluation criteria. Use to plan sections and supporting evidence.",
+      "sha256": "33d73400738162983c2c986b536bbfc967f91c2e7bb0b943bb94b33a25461ab2"
+    },
+    {
+      "name": "govcon-sled-discovery",
+      "description": "Research state, local and education procurement opportunities across supported records and source portals. Use when the target market is SLED rather than federal notices.",
+      "sha256": "da82fa69dac446cfffdb77a4f1098936b952fce2d4294314fe09d8dcd62f87d5"
+    },
+    {
+      "name": "govcon-supply-item-research",
+      "description": "Research government supply items, NSNs and supplier evidence. Use for defense supply opportunity research when identifiers and item relationships matter.",
+      "sha256": "c5c54de0c9b18ca276272a608f584b7f7f582d3dba708111707967c7063333ab"
+    },
+    {
+      "name": "govcon-teaming-partners",
+      "description": "Find complementary government contracting teaming candidates and prepare diligence. Use when filling a specific capability, experience, capacity or route-to-market gap.",
+      "sha256": "6f2d82157bfa4874c2d48ea6143971089e1729a4bef7d877e409c9bd268c3559"
+    },
+    {
+      "name": "govcon-vehicle-strategy",
+      "description": "Research a government contract vehicle and potential routes to market. Use when checking holders, relevant use or prime/subcontract pathways.",
+      "sha256": "96f4408130776f03e1d459e0a4bc951c010f5b0f0bbcb51b37b40d3fe7b00da2"
+    },
+    {
+      "name": "govcon-watchlist-management",
+      "description": "Create or review specifically requested government contracting watchlists and saved searches. Use to keep a defined research scope available in G2X.",
+      "sha256": "59402ee7bc8d1117f3da602b1b2cc852467a8311b380b1858862837c36918630"
+    },
+    {
+      "name": "government-contracting",
+      "description": "Government contracting sales, business development and capture with G2X intelligence through GovCon MCP. Use for market and account research, opportunity development, teaming, solicitation review, capture and pursuit follow-through; choose focused workflow skills when installed.",
+      "sha256": "53d26c8cd86e5611fe2ecca47489f08c88343883705deb3f1312172e0aecc3c9"
+    }
+  ]
+}
